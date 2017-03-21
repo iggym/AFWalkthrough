@@ -23,8 +23,6 @@ Alamofire.request("https://httpbin.org/get").responseJSON { response in
     print(" ****************\n\n\n ")
 }
 
-
-
 Alamofire.request("https://httpbin.org/get").response { response in
     print("Request: \(response.request)")
     print("Response: \(response.response)")
