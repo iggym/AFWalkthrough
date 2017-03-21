@@ -55,7 +55,7 @@
 		5FA0B3221E80C79900FB8081 /* AFWalkthroughUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AFWalkthroughUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FA0B3261E80C79900FB8081 /* AFWalkthroughUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFWalkthroughUITests.swift; sourceTree = "<group>"; };
 		5FA0B3281E80C79900FB8081 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5FA0B3341E80CA7300FB8081 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		5FA0B3341E80CA7300FB8081 /* ResponseHandling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ResponseHandling.playground; sourceTree = "<group>"; };
 		AE1692A4A028D4DEDCFDE5E3 /* Pods-AFWalkthroughUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		CC3E2599D4CDE87DF03B5690 /* Pods-AFWalkthroughUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.release.xcconfig"; sourceTree = "<group>"; };
 		E169ADEEC2B6BA8638EFBA64 /* Pods_AFWalkthroughTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWalkthroughTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -103,7 +103,7 @@
 		5FA0B2FA1E80C79900FB8081 = {
 			isa = PBXGroup;
 			children = (
-				5FA0B3341E80CA7300FB8081 /* MyPlayground.playground */,
+				5FA0B3341E80CA7300FB8081 /* ResponseHandling.playground */,
 				5FA0B3051E80C79900FB8081 /* AFWalkthrough */,
 				5FA0B31A1E80C79900FB8081 /* AFWalkthroughTests */,
 				5FA0B3251E80C79900FB8081 /* AFWalkthroughUITests */,

@@ -5,13 +5,13 @@ import PlaygroundSupport
 import Alamofire
 
 
-//var str = "Hello, playground"
+var str = "Hello, playground"
 
 PlaygroundPage.current.needsIndefiniteExecution = true
 
 URLCache.shared = URLCache(memoryCapacity: 0, diskCapacity: 0, diskPath: nil)
 
-Alamofire.request("https://httpbin.org/get")
+
 
 Alamofire.request("https://httpbin.org/get").responseJSON { response in
     print(response.request)  // original URL request
