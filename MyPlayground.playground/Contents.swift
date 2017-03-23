@@ -7,7 +7,7 @@ import Alamofire
 
 var str = "Hello, playground"
 
-//let testUrl = "https://httpbin.org/get"
+let testUrl = "https://httpbin.org/get"
 
 PlaygroundPage.current.needsIndefiniteExecution = true
 
