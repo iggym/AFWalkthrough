@@ -104,8 +104,7 @@
 		5FA0B2FA1E80C79900FB8081 = {
 			isa = PBXGroup;
 			children = (
-				5F6613FE1E817169003E35C0 /* MyPlayground.playground */,
-				5FA0B3341E80CA7300FB8081 /* ResponseHandling.playground */,
+				5FA992BD1E837F62009D8384 /* Playgrounds */,
 				5FA0B3051E80C79900FB8081 /* AFWalkthrough */,
 				5FA0B31A1E80C79900FB8081 /* AFWalkthroughTests */,
 				5FA0B3251E80C79900FB8081 /* AFWalkthroughUITests */,
@@ -154,6 +153,15 @@
 				5FA0B3281E80C79900FB8081 /* Info.plist */,
 			);
 			path = AFWalkthroughUITests;
+			sourceTree = "<group>";
+		};
+		5FA992BD1E837F62009D8384 /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				5FA0B3341E80CA7300FB8081 /* ResponseHandling.playground */,
+				5F6613FE1E817169003E35C0 /* MyPlayground.playground */,
+			);
+			name = Playgrounds;
 			sourceTree = "<group>";
 		};
 		B99831A91E4070011614B980 /* Pods */ = {
