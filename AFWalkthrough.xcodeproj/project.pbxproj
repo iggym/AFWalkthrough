@@ -42,6 +42,7 @@
 		21223899DD9B524092CB72D3 /* Pods-AFWalkthrough.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthrough.release.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthrough/Pods-AFWalkthrough.release.xcconfig"; sourceTree = "<group>"; };
 		31AC336E64D37DA88E0D8FB9 /* Pods-AFWalkthrough.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthrough.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthrough/Pods-AFWalkthrough.debug.xcconfig"; sourceTree = "<group>"; };
 		358BD8DF34803865955BD372 /* Pods_AFWalkthrough.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWalkthrough.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F6613FE1E817169003E35C0 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		5FA0B3031E80C79900FB8081 /* AFWalkthrough.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AFWalkthrough.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FA0B3061E80C79900FB8081 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5FA0B3081E80C79900FB8081 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +104,7 @@
 		5FA0B2FA1E80C79900FB8081 = {
 			isa = PBXGroup;
 			children = (
+				5F6613FE1E817169003E35C0 /* MyPlayground.playground */,
 				5FA0B3341E80CA7300FB8081 /* ResponseHandling.playground */,
 				5FA0B3051E80C79900FB8081 /* AFWalkthrough */,
 				5FA0B31A1E80C79900FB8081 /* AFWalkthroughTests */,
