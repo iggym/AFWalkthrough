@@ -60,6 +60,7 @@
 		5FA992BE1E84D622009D8384 /* ResponseValidation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ResponseValidation.playground; sourceTree = "<group>"; };
 		5FA992BF1E84D659009D8384 /* ResponseCaching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ResponseCaching.playground; sourceTree = "<group>"; };
 		5FA992C01E84D699009D8384 /* HTTPMethods.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HTTPMethods.playground; sourceTree = "<group>"; };
+		5FA992C11E84D6BA009D8384 /* ParameterEncoding.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ParameterEncoding.playground; sourceTree = "<group>"; };
 		AE1692A4A028D4DEDCFDE5E3 /* Pods-AFWalkthroughUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		CC3E2599D4CDE87DF03B5690 /* Pods-AFWalkthroughUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.release.xcconfig"; sourceTree = "<group>"; };
 		E169ADEEC2B6BA8638EFBA64 /* Pods_AFWalkthroughTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWalkthroughTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -166,6 +167,7 @@
 				5FA992BE1E84D622009D8384 /* ResponseValidation.playground */,
 				5FA992BF1E84D659009D8384 /* ResponseCaching.playground */,
 				5FA992C01E84D699009D8384 /* HTTPMethods.playground */,
+				5FA992C11E84D6BA009D8384 /* ParameterEncoding.playground */,
 			);
 			name = Playgrounds;
 			sourceTree = "<group>";
