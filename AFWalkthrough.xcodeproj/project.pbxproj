@@ -72,6 +72,7 @@
 		5FA992CA1E84D7FA009D8384 /* Custom Response Serialization.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Custom Response Serialization.playground"; sourceTree = "<group>"; };
 		5FA992CB1E84D881009D8384 /* Security.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Security.playground; sourceTree = "<group>"; };
 		5FA992CC1E84D89D009D8384 /* Network Reachability.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Network Reachability.playground"; sourceTree = "<group>"; };
+		5FA992CF1E84D99F009D8384 /* Initialization.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Initialization.playground; sourceTree = "<group>"; };
 		AE1692A4A028D4DEDCFDE5E3 /* Pods-AFWalkthroughUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		CC3E2599D4CDE87DF03B5690 /* Pods-AFWalkthroughUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.release.xcconfig"; sourceTree = "<group>"; };
 		E169ADEEC2B6BA8638EFBA64 /* Pods_AFWalkthroughTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWalkthroughTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -206,6 +207,7 @@
 		5FA992CE1E84D94E009D8384 /* SwiftyJSON */ = {
 			isa = PBXGroup;
 			children = (
+				5FA992CF1E84D99F009D8384 /* Initialization.playground */,
 			);
 			name = SwiftyJSON;
 			sourceTree = "<group>";
