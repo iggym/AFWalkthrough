@@ -66,6 +66,7 @@
 		5FA992C41E84D71B009D8384 /* DownloadingData .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "DownloadingData .playground"; sourceTree = "<group>"; };
 		5FA992C51E84D73D009D8384 /* UploadingData.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = UploadingData.playground; sourceTree = "<group>"; };
 		5FA992C61E84D75D009D8384 /* StatisticalMetrics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StatisticalMetrics.playground; sourceTree = "<group>"; };
+		5FA992C71E84D77E009D8384 /* Session Manager.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Session Manager.playground"; sourceTree = "<group>"; };
 		AE1692A4A028D4DEDCFDE5E3 /* Pods-AFWalkthroughUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		CC3E2599D4CDE87DF03B5690 /* Pods-AFWalkthroughUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.release.xcconfig"; sourceTree = "<group>"; };
 		E169ADEEC2B6BA8638EFBA64 /* Pods_AFWalkthroughTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWalkthroughTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -178,6 +179,7 @@
 				5FA992C41E84D71B009D8384 /* DownloadingData .playground */,
 				5FA992C51E84D73D009D8384 /* UploadingData.playground */,
 				5FA992C61E84D75D009D8384 /* StatisticalMetrics.playground */,
+				5FA992C71E84D77E009D8384 /* Session Manager.playground */,
 			);
 			name = Playgrounds;
 			sourceTree = "<group>";
