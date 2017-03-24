@@ -77,6 +77,7 @@
 		5FA992D11E84D9CC009D8384 /* Loop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Loop.playground; sourceTree = "<group>"; };
 		5FA992D21E84D9ED009D8384 /* Error.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Error.playground; sourceTree = "<group>"; };
 		5FA992D31E84DA17009D8384 /* Optional getter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Optional getter.playground"; sourceTree = "<group>"; };
+		5FA992D41E84DA35009D8384 /* Literal convertibles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Literal convertibles.playground"; sourceTree = "<group>"; };
 		AE1692A4A028D4DEDCFDE5E3 /* Pods-AFWalkthroughUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		CC3E2599D4CDE87DF03B5690 /* Pods-AFWalkthroughUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AFWalkthroughUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AFWalkthroughUITests/Pods-AFWalkthroughUITests.release.xcconfig"; sourceTree = "<group>"; };
 		E169ADEEC2B6BA8638EFBA64 /* Pods_AFWalkthroughTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWalkthroughTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -216,6 +217,7 @@
 				5FA992D11E84D9CC009D8384 /* Loop.playground */,
 				5FA992D21E84D9ED009D8384 /* Error.playground */,
 				5FA992D31E84DA17009D8384 /* Optional getter.playground */,
+				5FA992D41E84DA35009D8384 /* Literal convertibles.playground */,
 			);
 			name = SwiftyJSON;
 			sourceTree = "<group>";
