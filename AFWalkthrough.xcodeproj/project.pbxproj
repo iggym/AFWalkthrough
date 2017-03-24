@@ -173,6 +173,7 @@
 		5FA992BD1E837F62009D8384 /* Playgrounds */ = {
 			isa = PBXGroup;
 			children = (
+				5FA992CD1E84D8F4009D8384 /* Alamofire */,
 				5FA0B3341E80CA7300FB8081 /* ResponseHandling.playground */,
 				5F6613FE1E817169003E35C0 /* MyPlayground.playground */,
 				5FA992BE1E84D622009D8384 /* ResponseValidation.playground */,
@@ -192,6 +193,13 @@
 				5FA992CC1E84D89D009D8384 /* Network Reachability.playground */,
 			);
 			name = Playgrounds;
+			sourceTree = "<group>";
+		};
+		5FA992CD1E84D8F4009D8384 /* Alamofire */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Alamofire;
 			sourceTree = "<group>";
 		};
 		B99831A91E4070011614B980 /* Pods */ = {
