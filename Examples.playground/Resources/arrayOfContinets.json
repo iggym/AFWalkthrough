@@ -1,0 +1,51 @@
+[
+{
+nm: "Africa",
+pop: 1022234000,
+km: 11730000,
+ptl: 20.4,
+ptp: 15
+},
+{
+nm: "Antarctica",
+pop: 4000,
+km: 5300000,
+ptl: 9.2,
+ptp: 0
+},
+{
+nm: "Asia",
+pop: 4164252000,
+km: 16920000,
+ptl: 29.5,
+ptp: 60
+},
+{
+nm: "Australia",
+pop: 29127000,
+km: 3478200,
+ptl: 5.9,
+ptp: 0.4
+},
+{
+nm: "Europe",
+pop: 738199000,
+km: 3930000,
+ptl: 6.8,
+ptp: 11
+},
+{
+nm: "North America",
+pop: 542056000,
+km: 9460000,
+ptl: 16.5,
+ptp: 8
+},
+{
+nm: "South America",
+pop: 392555000,
+km: 6890000,
+ptl: 12,
+ptp: 6
+}
+]

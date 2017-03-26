@@ -92,16 +92,65 @@ three small JSON texts containing only values. Each of them is valid JSON
 
 true
 ---
+---
+JSON data describes an object:
+{
+color: "red",
+value: "#f00"
+}
 
 a Person object
 { "name":"John", "City":"Paris", "Height":182.88, "Weight":212}
 ---
 An array of numbers
 [1,3,2,4,5]
+[ 100, 500, 300, 200, 400 ]
 ---
 An array of strings
 ["dog", "cat", "mouse", "fox","chicken"]
+[ "Ford", "BMW", "Fiat" ]
 ---
+a JSON object that contains and array or cars
+{
+    "name":"John",
+    "age":30,
+    "cars":[ "Ford", "BMW", "Fiat" ]
+}
+---
+Values in an array can also be another array, or even another JSON object
+{
+    "name":"John",
+    "age":30,
+    "cars": [
+        { "name":"Ford", "models":[ "Fiesta", "Focus", "Mustang" ] },
+        { "name":"BMW", "models":[ "320", "X3", "X5" ] },
+        { "name":"Fiat", "models":[ "500", "Panda" ] }
+    ]
+}
+---
+the JSON data describes an array, and each element of that array is an object:
+[
+    {
+        color: "red",
+        value: "#f00"
+    },
+    {
+        color: "green",
+        value: "#0f0"
+    },
+    {
+        color: "blue",
+        value: "#00f"
+    },
+    {
+        color: "cyan",
+        value: "#0ff"
+    }
+]
+the JSON Data Set will create
+---
+---
+
  a JSON object representing an image:
 it contains an image object that has
     width, height, title and thumbnail members
@@ -144,5 +193,26 @@ This is a JSON array containing two objects:
         "Country":   "US"
     }
 ]
+---
+A JSON object of an employee
+{
+    "employee":{ "name":"John", "age":30, "city":"New York" }
+}
+---
+A JSON object of employees, it contains an arry of employees {
+{
+    "employees":[ "John", "Anna", "Peter" ]
+}
+---
+a JSON object with a value that is another JSON object.
+{
+    "name":"John",
+    "age":30,
+    "cars": {
+    "car1":"Ford",
+    "car2":"BMW",
+    "car3":"Fiat"
+    }
+}
 
 
