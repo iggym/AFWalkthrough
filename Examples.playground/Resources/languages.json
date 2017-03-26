@@ -1,0 +1,1112 @@
+ [
+  {
+  nm: "Abkhaz",
+  fam: "Northwest Caucasian",
+  code2: "ab",
+  code3: "abk"
+  },
+  {
+  nm: "Afar",
+  fam: "Afro-Asiatic",
+  code2: "aa",
+  code3: "aar"
+  },
+  {
+  nm: "Afrikaans",
+  fam: "Indo-European",
+  code2: "af",
+  code3: "afr"
+  },
+  {
+  nm: "Akan",
+  fam: "Niger-Congo",
+  code2: "ak",
+  code3: "aka"
+  },
+  {
+  nm: "Albanian",
+  fam: "Indo-European",
+  code2: "sq",
+  code3: "sqi"
+  },
+  {
+  nm: "Amharic",
+  fam: "Afro-Asiatic",
+  code2: "am",
+  code3: "amh"
+  },
+  {
+  nm: "Arabic",
+  fam: "Afro-Asiatic",
+  code2: "ar",
+  code3: "ara"
+  },
+  {
+  nm: "Aragonese",
+  fam: "Indo-European",
+  code2: "an",
+  code3: "arg"
+  },
+  {
+  nm: "Armenian",
+  fam: "Indo-European",
+  code2: "hy",
+  code3: "hye"
+  },
+  {
+  nm: "Assamese",
+  fam: "Indo-European",
+  code2: "as",
+  code3: "asm"
+  },
+  {
+  nm: "Avaric",
+  fam: "Northeast Caucasian",
+  code2: "av",
+  code3: "ava"
+  },
+  {
+  nm: "Avestan",
+  fam: "Indo-European",
+  code2: "ae",
+  code3: "ave"
+  },
+  {
+  nm: "Aymara",
+  fam: "Aymaran",
+  code2: "ay",
+  code3: "aym"
+  },
+  {
+  nm: "Azerbaijani",
+  fam: "Turkic",
+  code2: "az",
+  code3: "aze"
+  },
+  {
+  nm: "Bambara",
+  fam: "Niger-Congo",
+  code2: "bm",
+  code3: "bam"
+  },
+  {
+  nm: "Bashkir",
+  fam: "Turkic",
+  code2: "ba",
+  code3: "bak"
+  },
+  {
+  nm: "Basque",
+  fam: "Language isolate",
+  code2: "eu",
+  code3: "eus"
+  },
+  {
+  nm: "Belarusian",
+  fam: "Indo-European",
+  code2: "be",
+  code3: "bel"
+  },
+  {
+  nm: "Bengali; Bangla",
+  fam: "Indo-European",
+  code2: "bn",
+  code3: "ben"
+  },
+  {
+  nm: "Bihari",
+  fam: "Indo-European",
+  code2: "bh",
+  code3: "bih"
+  },
+  {
+  nm: "Bislama",
+  fam: "Creole",
+  code2: "bi",
+  code3: "bis"
+  },
+  {
+  nm: "Bosnian",
+  fam: "Indo-European",
+  code2: "bs",
+  code3: "bos"
+  },
+  {
+  nm: "Breton",
+  fam: "Indo-European",
+  code2: "br",
+  code3: "bre"
+  },
+  {
+  nm: "Bulgarian",
+  fam: "Indo-European",
+  code2: "bg",
+  code3: "bul"
+  },
+  {
+  nm: "Burmese",
+  fam: "Sino-Tibetan",
+  code2: "my",
+  code3: "mya"
+  },
+  {
+  nm: "Catalan; Valencian",
+  fam: "Indo-European",
+  code2: "ca",
+  code3: "cat"
+  },
+  {
+  nm: "Chamorro",
+  fam: "Austronesian",
+  code2: "ch",
+  code3: "cha"
+  },
+  {
+  nm: "Chechen",
+  fam: "Northeast Caucasian",
+  code2: "ce",
+  code3: "che"
+  },
+  {
+  nm: "Chichewa; Chewa; Nyanja",
+  fam: "Niger-Congo",
+  code2: "ny",
+  code3: "nya"
+  },
+  {
+  nm: "Chinese",
+  fam: "Sino-Tibetan",
+  code2: "zh",
+  code3: "zho"
+  },
+  {
+  nm: "Chuvash",
+  fam: "Turkic",
+  code2: "cv",
+  code3: "chv"
+  },
+  {
+  nm: "Cornish",
+  fam: "Indo-European",
+  code2: "kw",
+  code3: "cor"
+  },
+  {
+  nm: "Corsican",
+  fam: "Indo-European",
+  code2: "co",
+  code3: "cos"
+  },
+  {
+  nm: "Cree",
+  fam: "Algonquian",
+  code2: "cr",
+  code3: "cre"
+  },
+  {
+  nm: "Croatian",
+  fam: "Indo-European",
+  code2: "hr",
+  code3: "hrv"
+  },
+  {
+  nm: "Czech",
+  fam: "Indo-European",
+  code2: "cs",
+  code3: "ces"
+  },
+  {
+  nm: "Danish",
+  fam: "Indo-European",
+  code2: "da",
+  code3: "dan"
+  },
+  {
+  nm: "Divehi; Dhivehi; Maldivian",
+  fam: "Indo-European",
+  code2: "dv",
+  code3: "div"
+  },
+  {
+  nm: "Dutch",
+  fam: "Indo-European",
+  code2: "nl",
+  code3: "nld"
+  },
+  {
+  nm: "Dzongkha",
+  fam: "Sino-Tibetan",
+  code2: "dz",
+  code3: "dzo"
+  },
+  {
+  nm: "English",
+  fam: "Indo-European",
+  code2: "en",
+  code3: "eng"
+  },
+  {
+  nm: "Esperanto",
+  fam: "Constructed",
+  code2: "eo",
+  code3: "epo"
+  },
+  {
+  nm: "Estonian",
+  fam: "Uralic",
+  code2: "et",
+  code3: "est"
+  },
+  {
+  nm: "Ewe",
+  fam: "Niger-Congo",
+  code2: "ee",
+  code3: "ewe"
+  },
+  {
+  nm: "Faroese",
+  fam: "Indo-European",
+  code2: "fo",
+  code3: "fao"
+  },
+  {
+  nm: "Fijian",
+  fam: "Austronesian",
+  code2: "fj",
+  code3: "fij"
+  },
+  {
+  nm: "Finnish",
+  fam: "Uralic",
+  code2: "fi",
+  code3: "fin"
+  },
+  {
+  nm: "French",
+  fam: "Indo-European",
+  code2: "fr",
+  code3: "fra"
+  },
+  {
+  nm: "Fula; Fulah; Pulaar; Pular",
+  fam: "Niger-Congo",
+  code2: "ff",
+  code3: "ful"
+  },
+  {
+  nm: "Galician",
+  fam: "Indo-European",
+  code2: "gl",
+  code3: "glg"
+  },
+  {
+  nm: "Ganda",
+  fam: "Niger-Congo",
+  code2: "lg",
+  code3: "lug"
+  },
+  {
+  nm: "Georgian",
+  fam: "South Caucasian",
+  code2: "ka",
+  code3: "kat"
+  },
+  {
+  nm: "German",
+  fam: "Indo-European",
+  code2: "de",
+  code3: "deu"
+  },
+  {
+  nm: "Greek, Modern",
+  fam: "Indo-European",
+  code2: "el",
+  code3: "ell"
+  },
+  {
+  nm: "Guaraní",
+  fam: "Tupian",
+  code2: "gn",
+  code3: "grn"
+  },
+  {
+  nm: "Gujarati",
+  fam: "Indo-European",
+  code2: "gu",
+  code3: "guj"
+  },
+  {
+  nm: "Haitian; Haitian Creole",
+  fam: "Creole",
+  code2: "ht",
+  code3: "hat"
+  },
+  {
+  nm: "Hausa",
+  fam: "Afro-Asiatic",
+  code2: "ha",
+  code3: "hau"
+  },
+  {
+  nm: "Hebrew",
+  fam: "Afro-Asiatic",
+  code2: "he",
+  code3: "heb"
+  },
+  {
+  nm: "Herero",
+  fam: "Niger-Congo",
+  code2: "hz",
+  code3: "her"
+  },
+  {
+  nm: "Hindi",
+  fam: "Indo-European",
+  code2: "hi",
+  code3: "hin"
+  },
+  {
+  nm: "Hiri Motu",
+  fam: "Austronesian",
+  code2: "ho",
+  code3: "hmo"
+  },
+  {
+  nm: "Hungarian",
+  fam: "Uralic",
+  code2: "hu",
+  code3: "hun"
+  },
+  {
+  nm: "Icelandic",
+  fam: "Indo-European",
+  code2: "is",
+  code3: "isl"
+  },
+  {
+  nm: "Ido",
+  fam: "Constructed",
+  code2: "io",
+  code3: "ido"
+  },
+  {
+  nm: "Igbo",
+  fam: "Niger-Congo",
+  code2: "ig",
+  code3: "ibo"
+  },
+  {
+  nm: "Indonesian",
+  fam: "Austronesian",
+  code2: "id",
+  code3: "ind"
+  },
+  {
+  nm: "Interlingua",
+  fam: "Constructed",
+  code2: "ia",
+  code3: "ina"
+  },
+  {
+  nm: "Interlingue",
+  fam: "Constructed",
+  code2: "ie",
+  code3: "ile"
+  },
+  {
+  nm: "Inuktitut",
+  fam: "Eskimo-Aleut",
+  code2: "iu",
+  code3: "iku"
+  },
+  {
+  nm: "Inupiaq",
+  fam: "Eskimo-Aleut",
+  code2: "ik",
+  code3: "ipk"
+  },
+  {
+  nm: "Irish",
+  fam: "Indo-European",
+  code2: "ga",
+  code3: "gle"
+  },
+  {
+  nm: "Italian",
+  fam: "Indo-European",
+  code2: "it",
+  code3: "ita"
+  },
+  {
+  nm: "Japanese",
+  fam: "Japonic",
+  code2: "ja",
+  code3: "jpn"
+  },
+  {
+  nm: "Javanese",
+  fam: "Austronesian",
+  code2: "jv",
+  code3: "jav"
+  },
+  {
+  nm: "Kalaallisut, Greenlandic",
+  fam: "Eskimo-Aleut",
+  code2: "kl",
+  code3: "kal"
+  },
+  {
+  nm: "Kannada",
+  fam: "Dravidian",
+  code2: "kn",
+  code3: "kan"
+  },
+  {
+  nm: "Kanuri",
+  fam: "Nilo-Saharan",
+  code2: "kr",
+  code3: "kau"
+  },
+  {
+  nm: "Kashmiri",
+  fam: "Indo-European",
+  code2: "ks",
+  code3: "kas"
+  },
+  {
+  nm: "Kazakh",
+  fam: "Turkic",
+  code2: "kk",
+  code3: "kaz"
+  },
+  {
+  nm: "Khmer",
+  fam: "Austroasiatic",
+  code2: "km",
+  code3: "khm"
+  },
+  {
+  nm: "Kikuyu, Gikuyu",
+  fam: "Niger-Congo",
+  code2: "ki",
+  code3: "kik"
+  },
+  {
+  nm: "Kinyarwanda",
+  fam: "Niger-Congo",
+  code2: "rw",
+  code3: "kin"
+  },
+  {
+  nm: "Kirundi",
+  fam: "Niger-Congo",
+  code2: "rn",
+  code3: "run"
+  },
+  {
+  nm: "Komi",
+  fam: "Uralic",
+  code2: "kv",
+  code3: "kom"
+  },
+  {
+  nm: "Kongo",
+  fam: "Niger-Congo",
+  code2: "kg",
+  code3: "kon"
+  },
+  {
+  nm: "Korean",
+  fam: "Language isolate",
+  code2: "ko",
+  code3: "kor"
+  },
+  {
+  nm: "Kurdish",
+  fam: "Indo-European",
+  code2: "ku",
+  code3: "kur"
+  },
+  {
+  nm: "Kwanyama, Kuanyama",
+  fam: "Niger-Congo",
+  code2: "kj",
+  code3: "kua"
+  },
+  {
+  nm: "Kyrgyz",
+  fam: "Turkic",
+  code2: "ky",
+  code3: "kir"
+  },
+  {
+  nm: "Lao",
+  fam: "Tai-Kadai",
+  code2: "lo",
+  code3: "lao"
+  },
+  {
+  nm: "Latin",
+  fam: "Indo-European",
+  code2: "la",
+  code3: "lat"
+  },
+  {
+  nm: "Latvian",
+  fam: "Indo-European",
+  code2: "lv",
+  code3: "lav"
+  },
+  {
+  nm: "Limburgish, Limburgan, Limburger",
+  fam: "Indo-European",
+  code2: "li",
+  code3: "lim"
+  },
+  {
+  nm: "Lingala",
+  fam: "Niger-Congo",
+  code2: "ln",
+  code3: "lin"
+  },
+  {
+  nm: "Lithuanian",
+  fam: "Indo-European",
+  code2: "lt",
+  code3: "lit"
+  },
+  {
+  nm: "Luba-Katanga",
+  fam: "Niger-Congo",
+  code2: "lu",
+  code3: "lub"
+  },
+  {
+  nm: "Luxembourgish, Letzeburgesch",
+  fam: "Indo-European",
+  code2: "lb",
+  code3: "ltz"
+  },
+  {
+  nm: "Macedonian",
+  fam: "Indo-European",
+  code2: "mk",
+  code3: "mkd"
+  },
+  {
+  nm: "Malagasy",
+  fam: "Austronesian",
+  code2: "mg",
+  code3: "mlg"
+  },
+  {
+  nm: "Malay",
+  fam: "Austronesian",
+  code2: "ms",
+  code3: "msa"
+  },
+  {
+  nm: "Malayalam",
+  fam: "Dravidian",
+  code2: "ml",
+  code3: "mal"
+  },
+  {
+  nm: "Maltese",
+  fam: "Afro-Asiatic",
+  code2: "mt",
+  code3: "mlt"
+  },
+  {
+  nm: "Manx",
+  fam: "Indo-European",
+  code2: "gv",
+  code3: "glv"
+  },
+  {
+  nm: "Maori",
+  fam: "Austronesian",
+  code2: "mi",
+  code3: "mri"
+  },
+  {
+  nm: "Marathi",
+  fam: "Indo-European",
+  code2: "mr",
+  code3: "mar"
+  },
+  {
+  nm: "Marshallese",
+  fam: "Austronesian",
+  code2: "mh",
+  code3: "mah"
+  },
+  {
+  nm: "Mongolian",
+  fam: "Mongolic",
+  code2: "mn",
+  code3: "mon"
+  },
+  {
+  nm: "Nauru",
+  fam: "Austronesian",
+  code2: "na",
+  code3: "nau"
+  },
+  {
+  nm: "Navajo, Navaho",
+  fam: "Dené-Yeniseian",
+  code2: "nv",
+  code3: "nav"
+  },
+  {
+  nm: "Ndonga",
+  fam: "Niger-Congo",
+  code2: "ng",
+  code3: "ndo"
+  },
+  {
+  nm: "Nepali",
+  fam: "Indo-European",
+  code2: "ne",
+  code3: "nep"
+  },
+  {
+  nm: "North Ndebele",
+  fam: "Niger-Congo",
+  code2: "nd",
+  code3: "nde"
+  },
+  {
+  nm: "Northern Sami",
+  fam: "Uralic",
+  code2: "se",
+  code3: "sme"
+  },
+  {
+  nm: "Norwegian",
+  fam: "Indo-European",
+  code2: "no",
+  code3: "nor"
+  },
+  {
+  nm: "Norwegian Bokmål",
+  fam: "Indo-European",
+  code2: "nb",
+  code3: "nob"
+  },
+  {
+  nm: "Norwegian Nynorsk",
+  fam: "Indo-European",
+  code2: "nn",
+  code3: "nno"
+  },
+  {
+  nm: "Nuosu",
+  fam: "Sino-Tibetan",
+  code2: "ii",
+  code3: "iii"
+  },
+  {
+  nm: "Occitan",
+  fam: "Indo-European",
+  code2: "oc",
+  code3: "oci"
+  },
+  {
+  nm: "Ojibwe, Ojibwa",
+  fam: "Algonquian",
+  code2: "oj",
+  code3: "oji"
+  },
+  {
+  nm: "Old Church Slavonic",
+  fam: "Indo-European",
+  code2: "cu",
+  code3: "chu"
+  },
+  {
+  nm: "Oriya",
+  fam: "India-Asia",
+  code2: "or",
+  code3: "ori"
+  },
+  {
+  nm: "Oromo",
+  fam: "Afro-Asiatic",
+  code2: "om",
+  code3: "orm"
+  },
+  {
+  nm: "Ossetian, Ossetic",
+  fam: "Indo-European",
+  code2: "os",
+  code3: "oss"
+  },
+  {
+  nm: "Pali",
+  fam: "Indo-European",
+  code2: "pi",
+  code3: "pli"
+  },
+  {
+  nm: "Panjabi, Punjabi",
+  fam: "Indo-European",
+  code2: "pa",
+  code3: "pan"
+  },
+  {
+  nm: "Pashto, Pushto",
+  fam: "Indo-European",
+  code2: "ps",
+  code3: "pus"
+  },
+  {
+  nm: "Persian (Farsi)",
+  fam: "Indo-European",
+  code2: "fa",
+  code3: "fas"
+  },
+  {
+  nm: "Polish",
+  fam: "Indo-European",
+  code2: "pl",
+  code3: "pol"
+  },
+  {
+  nm: "Portuguese",
+  fam: "Indo-European",
+  code2: "pt",
+  code3: "por"
+  },
+  {
+  nm: "Quechua",
+  fam: "Quechuan",
+  code2: "qu",
+  code3: "que"
+  },
+  {
+  nm: "Romanian",
+  fam: "Indo-European",
+  code2: "ro",
+  code3: "ron"
+  },
+  {
+  nm: "Romansh",
+  fam: "Indo-European",
+  code2: "rm",
+  code3: "roh"
+  },
+  {
+  nm: "Russian",
+  fam: "Indo-European",
+  code2: "ru",
+  code3: "rus"
+  },
+  {
+  nm: "Samoan",
+  fam: "Austronesian",
+  code2: "sm",
+  code3: "smo"
+  },
+  {
+  nm: "Sango",
+  fam: "Creole",
+  code2: "sg",
+  code3: "sag"
+  },
+  {
+  nm: "Sanskrit",
+  fam: "Indo-European",
+  code2: "sa",
+  code3: "san"
+  },
+  {
+  nm: "Sardinian",
+  fam: "Indo-European",
+  code2: "sc",
+  code3: "srd"
+  },
+  {
+  nm: "Scottish Gaelic; Gaelic",
+  fam: "Indo-European",
+  code2: "gd",
+  code3: "gla"
+  },
+  {
+  nm: "Serbian",
+  fam: "Indo-European",
+  code2: "sr",
+  code3: "srp"
+  },
+  {
+  nm: "Shona",
+  fam: "Niger-Congo",
+  code2: "sn",
+  code3: "sna"
+  },
+  {
+  nm: "Sindhi",
+  fam: "Indo-European",
+  code2: "sd",
+  code3: "snd"
+  },
+  {
+  nm: "Sinhala, Sinhalese",
+  fam: "Indo-European",
+  code2: "si",
+  code3: "sin"
+  },
+  {
+  nm: "Slovak",
+  fam: "Indo-European",
+  code2: "sk",
+  code3: "slk"
+  },
+  {
+  nm: "Slovene",
+  fam: "Indo-European",
+  code2: "sl",
+  code3: "slv"
+  },
+  {
+  nm: "Somali",
+  fam: "Afro-Asiatic",
+  code2: "so",
+  code3: "som"
+  },
+  {
+  nm: "South Azerbaijani",
+  fam: "Turkic",
+  code2: "az",
+  code3: "azb"
+  },
+  {
+  nm: "South Ndebele",
+  fam: "Niger-Congo",
+  code2: "nr",
+  code3: "nbl"
+  },
+  {
+  nm: "Southern Sotho",
+  fam: "Niger-Congo",
+  code2: "st",
+  code3: "sot"
+  },
+  {
+  nm: "Spanish; Castilian",
+  fam: "Indo-European",
+  code2: "es",
+  code3: "spa"
+  },
+  {
+  nm: "Sundanese",
+  fam: "Austronesian",
+  code2: "su",
+  code3: "sun"
+  },
+  {
+  nm: "Swahili",
+  fam: "Niger-Congo",
+  code2: "sw",
+  code3: "swa"
+  },
+  {
+  nm: "Swati",
+  fam: "Niger-Congo",
+  code2: "ss",
+  code3: "ssw"
+  },
+  {
+  nm: "Swedish",
+  fam: "Indo-European",
+  code2: "sv",
+  code3: "swe"
+  },
+  {
+  nm: "Tagalog",
+  fam: "Austronesian",
+  code2: "tl",
+  code3: "tgl"
+  },
+  {
+  nm: "Tahitian",
+  fam: "Austronesian",
+  code2: "ty",
+  code3: "tah"
+  },
+  {
+  nm: "Tajik",
+  fam: "Indo-European",
+  code2: "tg",
+  code3: "tgk"
+  },
+  {
+  nm: "Tamil",
+  fam: "Dravidian",
+  code2: "ta",
+  code3: "tam"
+  },
+  {
+  nm: "Tatar",
+  fam: "Turkic",
+  code2: "tt",
+  code3: "tat"
+  },
+  {
+  nm: "Telugu",
+  fam: "Dravidian",
+  code2: "te",
+  code3: "tel"
+  },
+  {
+  nm: "Thai",
+  fam: "Tai-Kadai",
+  code2: "th",
+  code3: "tha"
+  },
+  {
+  nm: "Tibetan Standard, Tibetan, Central",
+  fam: "Sino-Tibetan",
+  code2: "bo",
+  code3: "bod"
+  },
+  {
+  nm: "Tigrinya",
+  fam: "Afro-Asiatic",
+  code2: "ti",
+  code3: "tir"
+  },
+  {
+  nm: "Tonga",
+  fam: "Austronesian",
+  code2: "to",
+  code3: "ton"
+  },
+  {
+  nm: "Tsonga",
+  fam: "Niger-Congo",
+  code2: "ts",
+  code3: "tso"
+  },
+  {
+  nm: "Tswana",
+  fam: "Niger-Congo",
+  code2: "tn",
+  code3: "tsn"
+  },
+  {
+  nm: "Turkish",
+  fam: "Turkic",
+  code2: "tr",
+  code3: "tur"
+  },
+  {
+  nm: "Turkmen",
+  fam: "Turkic",
+  code2: "tk",
+  code3: "tuk"
+  },
+  {
+  nm: "Twi",
+  fam: "Niger-Congo",
+  code2: "tw",
+  code3: "twi"
+  },
+  {
+  nm: "Ukrainian",
+  fam: "Indo-European",
+  code2: "uk",
+  code3: "ukr"
+  },
+  {
+  nm: "Urdu",
+  fam: "Indo-European",
+  code2: "ur",
+  code3: "urd"
+  },
+  {
+  nm: "Uyghur, Uighur",
+  fam: "Turkic",
+  code2: "ug",
+  code3: "uig"
+  },
+  {
+  nm: "Uzbek",
+  fam: "Turkic",
+  code2: "uz",
+  code3: "uzb"
+  },
+  {
+  nm: "Venda",
+  fam: "Niger-Congo",
+  code2: "ve",
+  code3: "ven"
+  },
+  {
+  nm: "Vietnamese",
+  fam: "Austroasiatic",
+  code2: "vi",
+  code3: "vie"
+  },
+  {
+  nm: "Volapük",
+  fam: "Constructed",
+  code2: "vo",
+  code3: "vol"
+  },
+  {
+  nm: "Walloon",
+  fam: "Indo-European",
+  code2: "wa",
+  code3: "wln"
+  },
+  {
+  nm: "Welsh",
+  fam: "Indo-European",
+  code2: "cy",
+  code3: "cym"
+  },
+  {
+  nm: "Western Frisian",
+  fam: "Indo-European",
+  code2: "fy",
+  code3: "fry"
+  },
+  {
+  nm: "Wolof",
+  fam: "Niger-Congo",
+  code2: "wo",
+  code3: "wol"
+  },
+  {
+  nm: "Xhosa",
+  fam: "Niger-Congo",
+  code2: "xh",
+  code3: "xho"
+  },
+  {
+  nm: "Yiddish",
+  fam: "Indo-European",
+  code2: "yi",
+  code3: "yid"
+  },
+  {
+  nm: "Yoruba",
+  fam: "Niger-Congo",
+  code2: "yo",
+  code3: "yor"
+  },
+  {
+  nm: "Zhuang, Chuang",
+  fam: "Tai-Kadai",
+  code2: "za",
+  code3: "zha"
+  },
+  {
+  nm: "Zulu",
+  fam: "Niger-Congo",
+  code2: "zu",
+  code3: "zul"
+  }
+  ]
