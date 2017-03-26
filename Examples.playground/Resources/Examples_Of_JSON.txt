@@ -1,0 +1,53 @@
+Note:   comments are not allowed in JSON
+see http://www.ietf.org/rfc/rfc4627.txt
+
+
+---
+JSON has two structures:
+
+A collection of name/value pairs. - Object(s)
+An ordered list of values. - Array(s)
+
+An object is an unordered set of name/value pairs. An object begins with { (left brace) and ends with } (right brace). Each name is followed by : (colon) and the name/value pairs are separated by , (comma).
+
+
+An array is an ordered collection of values. An array begins with [ (left bracket) and ends with ] (right bracket). Values are separated by , (comma).
+
+A value can be a string in double quotes, or a number, or true or false or null, or an object or an array. These structures can be nested.
+
+
+ name is usually a string, see below for  value options
+ value = false / null / true / object / array / number / string
+ Each name is followed by : (colon)
+ name/value pairs are separated by , (comma)
+see http://rfc7159.net/rfc7159
+
+---
+A string is a sequence of zero or more Unicode characters, wrapped in double quotes, using backslash escapes.
+    A character is represented as a single character string.
+    A string is very much like a C or Java string.
+A number is very much like a C or Java number, except that the octal and hexadecimal formats are not used.
+
+see Syntax diagrams (or railroad diagrams) at http://www.json.org/
+
+---
+Some Examples of json data
+
+An Empty object
+{}
+
+An Empty array
+[]
+
+a Person object
+{ "name":"John", "City":"Paris", "Height":182.88, "Weight":212}
+
+An array of numbers
+[1,3,2,4,5]
+
+An array of strings
+["dog", "cat", "mouse", "fox","chicken"]
+
+
+
+
