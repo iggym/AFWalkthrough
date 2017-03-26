@@ -1,0 +1,642 @@
+ [
+  {
+  ctry: "Afghanistan",
+  cur: "afghani",
+  scu: "100 puls"
+  },
+  {
+  ctry: "Algeria",
+  cur: "dinar",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Andorra",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Argentina",
+  cur: "peso",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Australia",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Austria",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Bahamas",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Bahrain",
+  cur: "dinar",
+  scu: "1,000 fils"
+  },
+  {
+  ctry: "Barbados",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Belgium",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Belize",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Benin",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Bolivia",
+  cur: "boliviano",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Brazil",
+  cur: "real",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Brunei",
+  cur: "dollar",
+  scu: "100 cents or sen"
+  },
+  {
+  ctry: "Bulgaria",
+  cur: "lev",
+  scu: "100 stotinki"
+  },
+  {
+  ctry: "Cameroon",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Canada",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Cayman Islands",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Central African Republic",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Chad",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Chile",
+  cur: "peso",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "China",
+  cur: "yuan",
+  scu: "10 fen"
+  },
+  {
+  ctry: "Chinese Taipei",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Colombia",
+  cur: "peso",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Congo (Kinshasa)",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Costa Rica",
+  cur: "colon",
+  scu: "100 centimos"
+  },
+  {
+  ctry: "Côte d'Ivoire",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Cuba",
+  cur: "peso",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Czech Republic",
+  cur: "koruna",
+  scu: "100 halers"
+  },
+  {
+  ctry: "Denmark",
+  cur: "krone",
+  scu: "100 ore"
+  },
+  {
+  ctry: "Djibouti",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Dominican Republic",
+  cur: "peso",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Ecuador",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Egypt",
+  cur: "pound",
+  scu: "100 piastres"
+  },
+  {
+  ctry: "El Salvador",
+  cur: "colon",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Ethiopia",
+  cur: "birr",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Fiji",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Finland",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "France",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Gabon",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Gambia",
+  cur: "dalasi",
+  scu: "100 bututs"
+  },
+  {
+  ctry: "Germany",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Ghana",
+  cur: "cedi",
+  scu: "100 pesewas"
+  },
+  {
+  ctry: "Greece",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Guatemala",
+  cur: "quetzal",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Guinea",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Guyana",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Haiti",
+  cur: "gourde",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Honduras",
+  cur: "lempira",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Hong Kong",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Hungary",
+  cur: "forint",
+  scu: "100 filler"
+  },
+  {
+  ctry: "Iceland",
+  cur: "Krona",
+  scu: "100 aurar"
+  },
+  {
+  ctry: "India",
+  cur: "rupee",
+  scu: "100 paise"
+  },
+  {
+  ctry: "Indonesia",
+  cur: "rupiah",
+  scu: "100 sen"
+  },
+  {
+  ctry: "Iraq",
+  cur: "dinar",
+  scu: "1,000 fils"
+  },
+  {
+  ctry: "Ireland",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Israel",
+  cur: "shekel",
+  scu: "100 agorot"
+  },
+  {
+  ctry: "Italy",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Jamaica",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Japan",
+  cur: "yen",
+  scu: "100 cen"
+  },
+  {
+  ctry: "Jordan",
+  cur: "dinar",
+  scu: "1,000 fils"
+  },
+  {
+  ctry: "Kenya",
+  cur: "shilling",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Korea, Republic of",
+  cur: "won",
+  scu: "100 chon"
+  },
+  {
+  ctry: "Kuwait",
+  cur: "dinar",
+  scu: "1,000 fils"
+  },
+  {
+  ctry: "Lebanon",
+  cur: "pound",
+  scu: "100 piastres"
+  },
+  {
+  ctry: "Luxembourg",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Malawi",
+  cur: "kwacha",
+  scu: "100 tambala"
+  },
+  {
+  ctry: "Malaysia",
+  cur: "ringgit",
+  scu: "100 sen"
+  },
+  {
+  ctry: "Maldives",
+  cur: "rufiyaa",
+  scu: "100 laari"
+  },
+  {
+  ctry: "Malta",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Mauritania",
+  cur: "ouguiya",
+  scu: "5 khoums"
+  },
+  {
+  ctry: "Mauritius",
+  cur: "rupee",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Mexico",
+  cur: "peso",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Mongolia",
+  cur: "tugrik",
+  scu: "100 mongo"
+  },
+  {
+  ctry: "Montenegro",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Morocco",
+  cur: "dirham",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Nepal",
+  cur: "rupee",
+  scu: "100 paisa"
+  },
+  {
+  ctry: "Netherlands",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "New Zealand",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Nicaragua",
+  cur: "cordoba",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Niger",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Norway",
+  cur: "krone",
+  scu: "100 ore"
+  },
+  {
+  ctry: "Oman",
+  cur: "riyal-omani",
+  scu: "1,000 baiza"
+  },
+  {
+  ctry: "Pakistan",
+  cur: "rupee",
+  scu: "100 paisa"
+  },
+  {
+  ctry: "Papua New Guinea",
+  cur: "kina",
+  scu: "100 toea"
+  },
+  {
+  ctry: "Paraguay",
+  cur: "guarani",
+  scu: "100 centimos"
+  },
+  {
+  ctry: "Peru",
+  cur: "inti",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Philippines",
+  cur: "peso",
+  scu: "100 centavos"
+  },
+  {
+  ctry: "Poland",
+  cur: "zloty",
+  scu: "100 groszy"
+  },
+  {
+  ctry: "Portugal",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Qatar",
+  cur: "riyal",
+  scu: "100 dirhams"
+  },
+  {
+  ctry: "Republic of Cyprus",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Romania",
+  cur: "leu",
+  scu: "100 bani"
+  },
+  {
+  ctry: "Samoa",
+  cur: "tala",
+  scu: "100 sene"
+  },
+  {
+  ctry: "Saudi Arabia",
+  cur: "riyal",
+  scu: "100 dirhams"
+  },
+  {
+  ctry: "Senegal",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Serbia",
+  cur: "dinar",
+  scu: "100 paras"
+  },
+  {
+  ctry: "Seychelles",
+  cur: "rupee",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Sierra Leone",
+  cur: "leone",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Singapore",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Slovakia",
+  cur: "koruna",
+  scu: ""
+  },
+  {
+  ctry: "Slovenia",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Solomon Islands",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Somalia",
+  cur: "shilling",
+  scu: "100 cents"
+  },
+  {
+  ctry: "South Africa",
+  cur: "rand",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Spain",
+  cur: "euro",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Sri Lanka",
+  cur: "rupee",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Sudan",
+  cur: "dinar",
+  scu: ""
+  },
+  {
+  ctry: "Suriname",
+  cur: "guilder",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Sweden",
+  cur: "krona",
+  scu: "100 ore"
+  },
+  {
+  ctry: "Switzerland",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Syrian Arab Republic",
+  cur: "pound",
+  scu: "100 piastres"
+  },
+  {
+  ctry: "Thailand",
+  cur: "baht",
+  scu: "100 satang"
+  },
+  {
+  ctry: "Togo",
+  cur: "franc",
+  scu: "100 centimes"
+  },
+  {
+  ctry: "Trinidad and Tobago",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Tunisia",
+  cur: "dinar",
+  scu: "1,000 millimes"
+  },
+  {
+  ctry: "Turkey",
+  cur: "lira",
+  scu: "100 kurus"
+  },
+  {
+  ctry: "Uganda",
+  cur: "shilling",
+  scu: "100 cents"
+  },
+  {
+  ctry: "United Arab Emirates",
+  cur: "dirham",
+  scu: "1,000 fils"
+  },
+  {
+  ctry: "United Kingdom",
+  cur: "pound",
+  scu: "100 pence"
+  },
+  {
+  ctry: "United Republic of Tanzania",
+  cur: "shilling",
+  scu: "100 cents"
+  },
+  {
+  ctry: "United States of America",
+  cur: "dollar",
+  scu: "100 cents"
+  },
+  {
+  ctry: "Uruguay",
+  cur: "peso",
+  scu: "100 centesimos"
+  },
+  {
+  ctry: "Venezuela",
+  cur: "bolivar",
+  scu: "100 centimos"
+  },
+  {
+  ctry: "Viet Nam",
+  cur: "dong",
+  scu: "100 xu"
+  },
+  {
+  ctry: "Zambia",
+  cur: "kwacha",
+  scu: "100 ngwee"
+  },
+  {
+  ctry: "Zimbabwe",
+  cur: "dollar",
+  scu: "100 cents"
+  }
+  ]
