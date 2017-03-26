@@ -1,0 +1,338 @@
+[
+{
+nm: "Alabama",
+ab: "AL",
+cp: "Montgomery",
+yr: "1819"
+},
+{
+nm: "Alaska",
+ab: "AK",
+cp: "Juneau",
+yr: "1959"
+},
+{
+nm: "American Samoa",
+ab: "AS",
+cp: "Pago Pago",
+yr: "1899"
+},
+{
+nm: "Arizona",
+ab: "AZ",
+cp: "Phoenix",
+yr: "1912"
+},
+{
+nm: "Arkansas",
+ab: "AR",
+cp: "Little Rock",
+yr: "1836"
+},
+{
+nm: "California",
+ab: "CA",
+cp: "Sacramento",
+yr: "1850"
+},
+{
+nm: "Colorado",
+ab: "CO",
+cp: "Denver",
+yr: "1876"
+},
+{
+nm: "Connecticut",
+ab: "CT",
+cp: "Hartford",
+yr: "1788"
+},
+{
+nm: "Delaware",
+ab: "DE",
+cp: "Dover",
+yr: "1787"
+},
+{
+nm: "Florida",
+ab: "FL",
+cp: "Tallahassee",
+yr: "1845"
+},
+{
+nm: "Georgia",
+ab: "GA",
+cp: "Atlanta",
+yr: "1788"
+},
+{
+nm: "Guam",
+ab: "GU",
+cp: "Hagåtña Dededo",
+yr: "1898"
+},
+{
+nm: "Hawaii",
+ab: "HI",
+cp: "Honolulu",
+yr: "1959"
+},
+{
+nm: "Idaho",
+ab: "ID",
+cp: "Boise",
+yr: "1890"
+},
+{
+nm: "Illinois",
+ab: "IL",
+cp: "Springfield",
+yr: "1818"
+},
+{
+nm: "Indiana",
+ab: "IN",
+cp: "Indianapolis",
+yr: "1816"
+},
+{
+nm: "Iowa",
+ab: "IA",
+cp: "Des Moines",
+yr: "1846"
+},
+{
+nm: "Kansas",
+ab: "KS",
+cp: "Topeka",
+yr: "1861"
+},
+{
+nm: "Kentucky",
+ab: "KY",
+cp: "Frankfort",
+yr: "1792"
+},
+{
+nm: "Louisiana",
+ab: "LA",
+cp: "Baton Rouge",
+yr: "1812"
+},
+{
+nm: "Maine",
+ab: "ME",
+cp: "Augusta",
+yr: "1820"
+},
+{
+nm: "Maryland",
+ab: "MD",
+cp: "Annapolis",
+yr: "1788"
+},
+{
+nm: "Massachusetts",
+ab: "MA",
+cp: "Boston",
+yr: "1788"
+},
+{
+nm: "Michigan",
+ab: "MI",
+cp: "Lansing",
+yr: "1837"
+},
+{
+nm: "Minnesota",
+ab: "MN",
+cp: "Saint Paul",
+yr: "1858"
+},
+{
+nm: "Mississippi",
+ab: "MS",
+cp: "Jackson",
+yr: "1817"
+},
+{
+nm: "Missouri",
+ab: "MO",
+cp: "Jefferson City",
+yr: "1821"
+},
+{
+nm: "Montana",
+ab: "MT",
+cp: "Helena",
+yr: "1889"
+},
+{
+nm: "Nebraska",
+ab: "NE",
+cp: "Lincoln",
+yr: "1867"
+},
+{
+nm: "Nevada",
+ab: "NV",
+cp: "Carson City",
+yr: "1864"
+},
+{
+nm: "New Hampshire",
+ab: "NH",
+cp: "Concord",
+yr: "1788"
+},
+{
+nm: "New Jersey",
+ab: "NJ",
+cp: "Trenton",
+yr: "1787"
+},
+{
+nm: "New Mexico",
+ab: "NM",
+cp: "Santa Fe",
+yr: "1912"
+},
+{
+nm: "New York",
+ab: "NY",
+cp: "Albany",
+yr: "1788"
+},
+{
+nm: "North Carolina",
+ab: "NC",
+cp: "Raleigh",
+yr: "1789"
+},
+{
+nm: "North Dakota",
+ab: "ND",
+cp: "Bismarck",
+yr: "1889"
+},
+{
+nm: "Northern Mariana Islands",
+ab: "MP",
+cp: "Saipan",
+yr: "1947"
+},
+{
+nm: "Ohio",
+ab: "OH",
+cp: "Columbus",
+yr: "1803"
+},
+{
+nm: "Oklahoma",
+ab: "OK",
+cp: "Oklahoma City",
+yr: "1907"
+},
+{
+nm: "Oregon",
+ab: "OR",
+cp: "Salem",
+yr: "1859"
+},
+{
+nm: "Pennsylvania",
+ab: "PA",
+cp: "Harrisburg",
+yr: "1787"
+},
+{
+nm: "Puerto Rico",
+ab: "PR",
+cp: "San Juan",
+yr: "1898"
+},
+{
+nm: "Rhode Island",
+ab: "RI",
+cp: "Providence",
+yr: "1790"
+},
+{
+nm: "South Carolina",
+ab: "SC",
+cp: "Columbia",
+yr: "1788"
+},
+{
+nm: "South Dakota",
+ab: "SD",
+cp: "Pierre",
+yr: "1889"
+},
+{
+nm: "Tennessee",
+ab: "TN",
+cp: "Nashville",
+yr: "1796"
+},
+{
+nm: "Texas",
+ab: "TX",
+cp: "Austin",
+yr: "1845"
+},
+{
+nm: "U.S. Virgin Islands",
+ab: "VI",
+cp: "Charlotte Amalie",
+yr: "1917"
+},
+{
+nm: "Utah",
+ab: "UT",
+cp: "Salt Lake City",
+yr: "1896"
+},
+{
+nm: "Vermont",
+ab: "VT",
+cp: "Montpelier",
+yr: "1791"
+},
+{
+nm: "Virginia",
+ab: "VA",
+cp: "Richmond",
+yr: "1788"
+},
+{
+nm: "Washington",
+ab: "WA",
+cp: "Olympia",
+yr: "1889"
+},
+{
+nm: "Washington D.C.",
+ab: "DC",
+cp: "",
+yr: ""
+},
+{
+nm: "West Virginia",
+ab: "WV",
+cp: "Charleston",
+yr: "1863"
+},
+{
+nm: "Wisconsin",
+ab: "WI",
+cp: "Madison",
+yr: "1848"
+},
+{
+nm: "Wyoming",
+ab: "WY",
+cp: "Cheyenne",
+yr: "1890"
+}
+]

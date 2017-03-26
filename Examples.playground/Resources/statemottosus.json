@@ -1,0 +1,373 @@
+[
+{
+st: "Alabama",
+cd: "AL",
+nm: "Audemus Jura Nostra Defendere",
+mn: "We Dare Maintain Our Rights",
+lc: "Latin"
+},
+{
+st: "Alaska",
+cd: "AK",
+nm: "North to the Future",
+mn: "",
+lc: ""
+},
+{
+st: "Arizona",
+cd: "AZ",
+nm: "Ditat Deus",
+mn: "God enriches",
+lc: "Latin"
+},
+{
+st: "Arkansas",
+cd: "AR",
+nm: "Regnat Populus",
+mn: "The people rule",
+lc: "Latin"
+},
+{
+st: "California",
+cd: "CA",
+nm: "Eureka",
+mn: "I have found it",
+lc: "Greek"
+},
+{
+st: "Colorado",
+cd: "CO",
+nm: "Nil Sine Numine",
+mn: "Nothing without providence",
+lc: "Latin"
+},
+{
+st: "Connecticut",
+cd: "CT",
+nm: "Qui Transtulit Sustinet",
+mn: "He who transplanted still sustains",
+lc: "Latin"
+},
+{
+st: "Delaware",
+cd: "DE",
+nm: "Liberty and independence",
+mn: "",
+lc: ""
+},
+{
+st: "Florida",
+cd: "FL",
+nm: "In God we trust",
+mn: "",
+lc: ""
+},
+{
+st: "Georgia",
+cd: "GA",
+nm: "Wisdom, Justice, and Moderation",
+mn: "",
+lc: ""
+},
+{
+st: "Georgia",
+cd: "GA",
+nm: "Agriculture and Commerce",
+mn: "",
+lc: ""
+},
+{
+st: "Hawaii",
+cd: "HI",
+nm: "Ua Mau Ke Ea O Ka Aina I Ka Pono",
+mn: "The life of the land is perpetuated in righteousness",
+lc: "Hawaiian"
+},
+{
+st: "Idaho",
+cd: "ID",
+nm: "Esto Perpetua",
+mn: "It is perpetual",
+lc: "Latin"
+},
+{
+st: "Illinois",
+cd: "IL",
+nm: "State sovereignty, national union",
+mn: "",
+lc: ""
+},
+{
+st: "Indiana",
+cd: "IN",
+nm: "The crossroads of America",
+mn: "",
+lc: ""
+},
+{
+st: "Iowa",
+cd: "IA",
+nm: "Our liberties we prize and our rights we will maintain",
+mn: "",
+lc: ""
+},
+{
+st: "Kansas",
+cd: "KS",
+nm: "Ad Astra per Aspera",
+mn: "To the stars through difficulties",
+lc: "Latin"
+},
+{
+st: "Kentucky",
+cd: "KY",
+nm: "United we stand, divided we shall fall",
+mn: "",
+lc: ""
+},
+{
+st: "Kentucky",
+cd: "KY",
+nm: "Deo gratiam habeamus",
+mn: "Let Us Be Grateful to God",
+lc: "Latin"
+},
+{
+st: "Louisiana",
+cd: "LA",
+nm: "Union, justice and confidence",
+mn: "",
+lc: ""
+},
+{
+st: "Maine",
+cd: "ME",
+nm: "Dirigo",
+mn: "I direct",
+lc: "Latin"
+},
+{
+st: "Maryland",
+cd: "MD",
+nm: "Fatti Maschii Parole Femine",
+mn: "Strong Deeds, Gentle Words",
+lc: "Italian"
+},
+{
+st: "Massachusetts",
+cd: "MA",
+nm: "Ense Petit Placidam Sub Libertate Quietem",
+mn: "By the sword we seek peace, but peace only under liberty",
+lc: "Latin"
+},
+{
+st: "Michigan",
+cd: "MI",
+nm: "Si Quaeris Peninsulam Amoenam Circumspice",
+mn: "If you seek a pleasant peninsula, look about you",
+lc: "Latin"
+},
+{
+st: "Minnesota",
+cd: "MN",
+nm: "L'Etoile du Nord",
+mn: "The star of the north",
+lc: "French"
+},
+{
+st: "Mississippi",
+cd: "MS",
+nm: "Virtute et Armis",
+mn: "By valor and arms",
+lc: "Latin"
+},
+{
+st: "Missouri",
+cd: "MO",
+nm: "Salus Populi Suprema Lex Esto",
+mn: "The welfare of the people shall be the supreme law",
+lc: "Latin"
+},
+{
+st: "Montana",
+cd: "MT",
+nm: "Oro y Plata",
+mn: "Gold and Silver",
+lc: "Spanish"
+},
+{
+st: "Nebraska",
+cd: "NE",
+nm: "Equality before the law",
+mn: "",
+lc: ""
+},
+{
+st: "Nevada",
+cd: "NV",
+nm: "All for our country",
+mn: "",
+lc: ""
+},
+{
+st: "New Hampshire",
+cd: "NH",
+nm: "Live free or die",
+mn: "",
+lc: ""
+},
+{
+st: "New Jersey",
+cd: "NJ",
+nm: "Liberty and Prosperity",
+mn: "",
+lc: ""
+},
+{
+st: "New Mexico",
+cd: "NM",
+nm: "Crescit Eundo",
+mn: "It grows as it goes",
+lc: "Latin"
+},
+{
+st: "New York",
+cd: "NY",
+nm: "Excelsior",
+mn: "Higher",
+lc: "Latin"
+},
+{
+st: "North Carolina",
+cd: "NC",
+nm: "Esse Quam Videri",
+mn: "To be, rather than to seem",
+lc: "Latin"
+},
+{
+st: "North Dakota",
+cd: "ND",
+nm: "Liberty and union, now and forever, one and inseparable",
+mn: "",
+lc: ""
+},
+{
+st: "Ohio",
+cd: "OH",
+nm: "With God, all things are possible",
+mn: "",
+lc: ""
+},
+{
+st: "Oklahoma",
+cd: "OK",
+nm: "Labor Omnia Vincit",
+mn: "Labor conquers all things",
+lc: "Latin"
+},
+{
+st: "Oregon",
+cd: "OR",
+nm: "Alis Volat Propriis",
+mn: "She flies with her own wings",
+lc: "Latin"
+},
+{
+st: "Pennsylvania",
+cd: "PA",
+nm: "Virtue, liberty and independence",
+mn: "",
+lc: ""
+},
+{
+st: "Rhode Island",
+cd: "RI",
+nm: "Hope",
+mn: "",
+lc: ""
+},
+{
+st: "South Carolina",
+cd: "SC",
+nm: "Animis Opibusque Parati",
+mn: "Prepared in mind and resources",
+lc: "Latin"
+},
+{
+st: "South Carolina",
+cd: "SC",
+nm: "Dum Spiro Spero",
+mn: "While I breathe, I hope",
+lc: "Latin"
+},
+{
+st: "South Dakota",
+cd: "SD",
+nm: "Under God, the people rule",
+mn: "",
+lc: ""
+},
+{
+st: "Tennessee",
+cd: "TN",
+nm: "Agriculture and commerce",
+mn: "",
+lc: ""
+},
+{
+st: "Texas",
+cd: "TX",
+nm: "Friendship",
+mn: "",
+lc: ""
+},
+{
+st: "Utah",
+cd: "UT",
+nm: "Industry",
+mn: "",
+lc: ""
+},
+{
+st: "Vermont",
+cd: "VT",
+nm: "Freedom and unity",
+mn: "",
+lc: ""
+},
+{
+st: "Virginia",
+cd: "VA",
+nm: "Sic Semper Tyrannis",
+mn: "Thus always to tyrants",
+lc: "Latin"
+},
+{
+st: "Washington",
+cd: "WA",
+nm: "Al-ki",
+mn: "By and by",
+lc: "Native"
+},
+{
+st: "West Virginia",
+cd: "WV",
+nm: "Montani Semper Liberi",
+mn: "Mountaineers always free",
+lc: "Latin"
+},
+{
+st: "Wisconsin",
+cd: "WI",
+nm: "Forward",
+mn: "",
+lc: ""
+},
+{
+st: "Wyoming",
+cd: "WY",
+nm: "Equal rights",
+mn: "",
+lc: ""
+}
+]

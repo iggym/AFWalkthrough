@@ -1,0 +1,32 @@
+ [
+  {
+  nm: "Artic Ocean",
+  sz: 5427000,
+  dp: 18456,
+  low: "77°45'N; 175°W"
+  },
+  {
+  nm: "Atlantic Ocean",
+  sz: 29637900,
+  dp: 30246,
+  low: "Puerto Rico Trench"
+  },
+  {
+  nm: "Indian Ocean",
+  sz: 26469500,
+  dp: 24460,
+  low: "Sunda Trench"
+  },
+  {
+  nm: "Pacific Ocean",
+  sz: 60060700,
+  dp: 36198,
+  low: "Mariana Trench"
+  },
+  {
+  nm: "Southern Ocean",
+  sz: 7848300,
+  dp: 23736,
+  low: "South Sandwich Trench"
+  }
+  ]
