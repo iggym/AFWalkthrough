@@ -183,6 +183,7 @@
 		5FA992BD1E837F62009D8384 /* Playgrounds */ = {
 			isa = PBXGroup;
 			children = (
+				5FA992D11E84D9CC009D8384 /* Loop.playground */,
 				5FA992CE1E84D94E009D8384 /* SwiftyJSON */,
 				5FA992CD1E84D8F4009D8384 /* Alamofire */,
 			);
@@ -218,7 +219,6 @@
 			children = (
 				5FA992CF1E84D99F009D8384 /* Initialization.playground */,
 				5FA992D01E84D9B6009D8384 /* Subscript.playground */,
-				5FA992D11E84D9CC009D8384 /* Loop.playground */,
 				5FA992D21E84D9ED009D8384 /* Error.playground */,
 				5FA992D31E84DA17009D8384 /* Optional getter.playground */,
 				5FA992D41E84DA35009D8384 /* Literal convertibles.playground */,
